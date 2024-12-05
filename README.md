@@ -1,2 +1,2 @@
-# picgo
-Image Hosting
+# donghui-picgo
+Image Hosting of donghuipy
